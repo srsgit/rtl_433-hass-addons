@@ -1,3 +1,7 @@
+## [0.1.7.1] - 2021-05-22
+
+- Add max wind speed km/h handling
+
 ## [0.1.7] - 2021-03-17
 
 - Remove old `device_class` `"moisture"`, `"safety"` and `"depth"` from whatever devices are still using them
